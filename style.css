@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fa-apple{
+    font-size: 30px;
+    color: black;
+}
+a{
+    font-size: 22px;
+    color: #fff;
+    font-weight: bold;
+}
+#offcanvasRightLabel{
+    font-weight: bold;
+   
+}
+.card-title{
+    color: red;
+    font-weight: bold;
+}
+.btn{
+    font-weight: bold;
+}
